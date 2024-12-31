@@ -32,6 +32,12 @@ if ($batteryLevel -gt 80) {
     )
 }
 ```
+
+## Reference Image
+
+![Reference Image](/image.png)
+
+...
 ## How to Use
 
 ## Setup Instructions
