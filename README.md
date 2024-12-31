@@ -2,6 +2,8 @@
 
 A simple PowerShell script to **monitor your laptop battery** and **pop up a reminder** if it goes above 80%. This helps prolong battery health by letting you unplug the charger before it fully reaches 100%.
 
+**Useful for Laptops with no built-in battery protection or those that lack manufacturer battery limit settings like HP OMEN**
+
 ---
 
 ## Prerequisites
